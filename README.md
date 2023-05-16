@@ -1,6 +1,9 @@
 # iGeo
 
 This python program is used to retrieve geolocation information of an IP address. You can use two methods to do this: the ipwhois package and the ipinfo package.
+
+![bilde](https://github.com/SpaceyLad/iGeo_ip_scanner/assets/87969837/97136b60-b93e-4c48-86ae-55f5d83a86f1)
+
 ### Installation
 
 pip install -r requirements.txt
