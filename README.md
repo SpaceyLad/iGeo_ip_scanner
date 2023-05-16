@@ -1,2 +1,2 @@
-# iGeo_ip_scanner
+# iGeo
 For learnig about a large amount of IP addresses quick!
