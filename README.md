@@ -34,6 +34,12 @@ When the program is run, it asks whether you want to use ipwhois or ipinfo.
 2. Reads the IP addresses from ip.txt and retrieves geolocation information for each IP.
 3. Stores the results in ipinfo_save.csv and prints the results while doing so.
 
-Error Handling
+### Error Handling
 
 The program has robust error handling. It checks if the API calls are successful. If not, it saves the errors along with the corresponding IP address for further investigation.
+
+
+## Note about ip.txt
+
+The provided ip.txt is a generated list made from this website:
+https://www.ipvoid.com/random-ip/
